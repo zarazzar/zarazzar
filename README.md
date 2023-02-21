@@ -2,7 +2,7 @@
 <h3 align="center">I'm Learning to become a Mobile Developer</h3>
 <img align="right" alt="developing gif" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
 
 - 🌱 I’m currently learning **Dart, Flutter, React Native for Mobile Apps , and also learn ReactJs, NodeJs and MongoDb for Web Dev.**
 
