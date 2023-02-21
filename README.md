@@ -16,7 +16,7 @@
 <a href="https://instagram.com/zarazzarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zarazzarr" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarazzar&show_icons=true&locale=en&layout=compact" alt="zarazzar" /></p>
+ 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zarazzar&show_icons=true&locale=en" alt="zarazzar" /></p>
 
