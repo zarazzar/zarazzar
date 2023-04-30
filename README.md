@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90712252/234749322-ebe533dc-cb65-484e-b427-ba33fd9f95fe.png)
+
 <h1 align="center">Hello There 👋,my name is Azzar Rizky</h1>
 <h3 align="center">I'm Learning to become a Mobile Developer</h3>
 
