@@ -4,7 +4,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
 
-- 🌱 I’m currently learning **Dart, Flutter, React Native for Mobile Apps , and also learn ReactJs, NodeJs and MongoDb for Web Dev.**
+- 🌱 I’m currently learning **Flutter for Mobile Development , and also learn ReactJs, NodeJs and MongoDb for Web Dev.**
 
 - 👨‍💻 Welcome to my Project [https://github.com/zarazzar](https://github.com/zarazzar)
 
