@@ -1,21 +1,13 @@
 
-<h1 align="center">Hello There 👋,my name is Azzar Rizky</h1>
-<h3 align="center">I'm Learning to become a Mobile Developer</h3>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFBB5C&center=true&width=435&lines=Hi+There!;I'm+Azzar+Rizky" alt="Running text" />
+    </a>
+</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
 
-- 🌱 I’m currently learning **Flutter for Mobile Development , and also learn ReactJs, NodeJs and MongoDb for Web Dev.**
-
-- 👨‍💻 Welcome to my Project [https://github.com/zarazzar](https://github.com/zarazzar)
-
 - 📫 Email me on **azzar.arza18@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
