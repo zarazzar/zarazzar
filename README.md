@@ -8,8 +8,10 @@
 <p> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true" />
+    <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zarazzar&layout=compact&langs_count=8&theme=tokyonight"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zarazzar&theme=tokyonight-duo&hide_border=true" />
 </p>
+
 
 ### Expertise
 <div style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
