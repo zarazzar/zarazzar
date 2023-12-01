@@ -31,6 +31,5 @@
 <a href="https://instagram.com/zarazzarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zarazzarr" height="30" width="40" /></a>
 </p>
 <br>
-- 📫 Email me on **azzar.arza18@gmail.com**
 
  
