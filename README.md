@@ -8,7 +8,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=zarazzar&label=Profile%20views&color=2d9f3a&style=plastic" alt="zarazzar" /> </p>
 
 <p align="center">
-    <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zarazzar&layout=compact&langs_count=8&theme=tokyonight"/></a>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zarazzar&theme=tokyonight-duo&hide_border=true" />
 </p>
 
@@ -26,6 +25,10 @@
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/>
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+   <br>
+
+   <br>
+   <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zarazzar&layout=compact&langs_count=8&theme=tokyonight"/></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
