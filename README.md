@@ -15,7 +15,8 @@
 <div style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
    <img width="24" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
    <img width="24" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-   <img width="24" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
+   <img width="24" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB-450x487.png" alt="Android Studio" title="Android Jetpack"/>
+    <img width="24" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
    <br>
    
    <br>
